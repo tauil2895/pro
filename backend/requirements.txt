@@ -1,0 +1,8 @@
+# backend/requirements.txt
+Django>=4.2,<5.0
+django-environ  # Para manejar variables de entorno (.env)
+psycopg2-binary # Driver para conectar con PostgreSQL
+djangorestframework # Para el desarrollo de la API
+django-cors-headers # Para permitir peticiones desde el frontend
+djangorestframework-simplejwt
+django-prometheus

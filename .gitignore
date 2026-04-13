@@ -1,0 +1,16 @@
+# Django
+*.log
+local_settings.py
+db.sqlite3
+staticfiles/
+
+# Entorno
+.env
+
+# Docker
+.data/
+postgres_data/
+
+# Python
+__pycache__/
+*.py[cod]
