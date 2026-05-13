@@ -11,7 +11,7 @@ This is a robust patient management system developed using **Django Rest Framewo
 
 ## 🛠️ Implemented Features
 - **Secure Autentication:** Complete flow of `access` y `refresh` tokens.
-- **Data Management:** CRUD completo con validación de datos y formatos de fecha regionales ($MM-DD-YYYY$).
+- **Data Management:** Complete CRUD with data validation and regional data formats ($MM-DD-YYYY$).
 - **HIPAA Audit:** Custom middleware that logs every access to sensitive data in `hipaa_audit.log`.
 - **Observability:** Integrated metrics endpoint for performance telemetry.
 - **Dockerized:** Identical development environment for all collaborators.
